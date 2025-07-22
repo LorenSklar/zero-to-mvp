@@ -1,10 +1,10 @@
 :root {
   --background: #18181b;
   --foreground: #fff;
-  --accent: #ff4f81;
+  --accent: #00ff41;
   --section-bg: #232336;
   --divider: linear-gradient(90deg, transparent, var(--accent) 50%, transparent);
-  --font-main: 'IBM Plex Mono', 'Fira Mono', 'Menlo', monospace;
+  --font-main: 'VT323', 'Courier New', 'Monaco', 'Menlo', monospace;
 }
 
 body {
@@ -13,6 +13,7 @@ body {
   font-family: var(--font-main);
   margin: 0;
   padding: 0;
+  font-size: 1.2em;
 }
 
 main {
@@ -52,8 +53,20 @@ h1, h2, h3 {
   text-align: center;
 }
 
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.8em;
+}
+
 p, ul, ol, label {
-  font-size: 1.1em;
+  font-size: 1.4em;
   line-height: 1.6;
   text-align: center;
 }
@@ -78,7 +91,7 @@ input[type="tel"], input[type="datetime-local"] {
   border: 1px solid var(--accent);
   background: #191924;
   color: var(--foreground);
-  font-size: 1em;
+  font-size: 1.2em;
   font-family: var(--font-main);
   margin-top: 0.5em;
   width: 220px;
@@ -93,19 +106,19 @@ button {
   padding: 0.9em 2em;
   font-family: var(--font-main);
   cursor: pointer;
-  box-shadow: 0 2px 8px #ff4f8199;
+  box-shadow: 0 2px 8px #00ff4199;
   transition: background 0.2s, transform 0.1s;
-  font-size: 1.1em;
+  font-size: 1.3em;
   margin-top: 0.5em;
 }
 button:hover {
-  background: #d72660;
+  background: #00cc33;
   transform: translateY(-2px) scale(1.04);
 }
 
 footer {
   margin-top: 3em;
   text-align: center;
-  font-size: 1em;
+  font-size: 1.1em;
   color: #aaa;
 } 

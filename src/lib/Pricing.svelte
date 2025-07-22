@@ -5,5 +5,5 @@
 <ul>
   <li>$1000 back after 2 weeks if we can’t define a clear MVP.</li>
   <li>$500 back after 4 weeks if you don’t have working code.</li>
-  <li>No refund after 6 weeks—because you’ll have launched.</li>
+  <li>No refund after 6 weeks because you already launched!</li>
 </ul> 
