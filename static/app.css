@@ -1,0 +1,111 @@
+:root {
+  --background: #18181b;
+  --foreground: #fff;
+  --accent: #ff4f81;
+  --section-bg: #232336;
+  --divider: linear-gradient(90deg, transparent, var(--accent) 50%, transparent);
+  --font-main: 'IBM Plex Mono', 'Fira Mono', 'Menlo', monospace;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-main);
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2.5em 1.5em 2em 1.5em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+section {
+  width: 100%;
+  background: var(--section-bg);
+  border-radius: 16px;
+  margin: 2.5em 0;
+  padding: 2em 1.5em;
+  box-shadow: 0 2px 16px #0004;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+hr.section-divider {
+  border: none;
+  height: 2px;
+  width: 60%;
+  margin: 2.5em auto;
+  background: var(--divider);
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+  letter-spacing: 0.03em;
+  color: var(--foreground);
+  text-shadow: 0 2px 8px var(--accent);
+  text-align: center;
+}
+
+p, ul, ol, label {
+  font-size: 1.1em;
+  line-height: 1.6;
+  text-align: center;
+}
+
+ul, ol {
+  margin: 1em 0 0 0;
+  padding: 0 0 0 1.2em;
+  text-align: left;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2em;
+  align-items: center;
+  width: 100%;
+}
+
+input[type="tel"], input[type="datetime-local"] {
+  padding: 0.7em 1em;
+  border-radius: 6px;
+  border: 1px solid var(--accent);
+  background: #191924;
+  color: var(--foreground);
+  font-size: 1em;
+  font-family: var(--font-main);
+  margin-top: 0.5em;
+  width: 220px;
+}
+
+button {
+  background: var(--accent);
+  color: #18181b;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  padding: 0.9em 2em;
+  font-family: var(--font-main);
+  cursor: pointer;
+  box-shadow: 0 2px 8px #ff4f8199;
+  transition: background 0.2s, transform 0.1s;
+  font-size: 1.1em;
+  margin-top: 0.5em;
+}
+button:hover {
+  background: #d72660;
+  transform: translateY(-2px) scale(1.04);
+}
+
+footer {
+  margin-top: 3em;
+  text-align: center;
+  font-size: 1em;
+  color: #aaa;
+} 
