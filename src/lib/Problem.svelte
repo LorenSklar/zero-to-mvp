@@ -1,6 +1,8 @@
-<h3>Problem</h3>
-<ul>
-  <li>You have a solid idea—but no clue where to start or who to trust.</li>
-  <li>You’re lost in no-code tools, Upwork bids, or Medium articles about “finding a CTO.”</li>
-  <li>You want to launch. But you’re still waiting on someone else to build it.</li>
-</ul> 
+<section>
+  <h3 class="section-title">Problem</h3>
+  <ul class="bullet-list">
+    <li class="bullet-item">You have a solid idea but no clue where to start or who to trust.</li>
+    <li class="bullet-item">You tried AI tools, but the code broke or couldn’t adapt when your idea evolved.</li>
+    <li class="bullet-item">You want to test your idea but are stuck waiting on someone else to build the MVP.</li>
+  </ul>
+</section>
