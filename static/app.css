@@ -121,4 +121,38 @@ footer {
   text-align: center;
   font-size: 1.1em;
   color: #aaa;
-} 
+}
+
+.hero {
+  padding: 2em;
+  text-align: center;
+}
+
+.hero-title {
+  font-size: 2.2em;
+  margin-bottom: 0.5em;
+}
+
+.hero-subtitle {
+  font-size: 1.3em;
+  margin-bottom: 1.2em;
+}
+
+.hero-call {
+  font-size: 1.2em;
+  margin-bottom: 1.2em;
+}
+
+.cta-button {
+  font-size: 1.3em;
+  padding: 1.1em 2.5em;
+  margin: 1.5em 0 0.5em 0;
+  cursor: pointer;
+}
+
+.price-note {
+  margin-top: 1.2em;
+  color: var(--accent);
+  font-weight: bold;
+  font-size: 1.1em;
+}
