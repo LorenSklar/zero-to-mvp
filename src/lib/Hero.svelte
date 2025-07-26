@@ -1,33 +1,43 @@
-
 <section>
   <h1 class="section-title">
-    Stuck with no MVP?
+    Still No MVP?
   </h1>
 
-  <p class="section-text">
-    You tried AI tools but the code broke. <br />
-    You hired a dev shop and costs exploded. <br />
-    You waited for a CTO who never arrived.
+  <p>
+    You tried AI tools, but every tweak broke the code.
+    You hired a dev shop. They drained your wallet and didn't deliver.
+    You waited for a CTO. None appeared.
+    Stop waiting. Build an MVP yourself in just 6 weeks.
   </p>
 
-  <p class="section-text">
-    Stop waiting.
-  </p>
+  <p>
+    In our <strong>Be Your Own CTO Bootcamp</strong>, 
+    non-technical founders work in small cohorts 
+    with expert coaches and 1:1 support
+    to build and launch real MVPs fast. 
+    Code that is 100% yours. 
+    Code you can change any time as your startup grows.
+  </p> 
 
-  <p class="section-text">
-    Build your MVP in six weeks guided by an expert who coaches founders at the Institute for Entrepreneurship.<br />
-    Test your idea with real, maintainable code you write yourself. 
+  <p>
+    No coding experience? No problem. 
+    AI tools help you write the code. 
+    We help you understand it.
+    Everything you need to ship, learn, and iterate quickly.
   </p>
-
-  <p class="section-text">
-    No waiting. No outsourcing. Zero coding experience required.
+         
+  <p>    
+    Attract real users. 
+    Generate real data. 
+    Prove traction.
+    Get funding.
   </p>
 
   <button class="button" on:click={() => document.getElementById('bookcall')?.scrollIntoView({ behavior: 'smooth' })}>
-    Talk to an MVP coach today -->
+    Talk to an MVP Coach Today →
   </button>
 
   <p class="section-text">
-    <strong>Only 10 spots at $1495, then $2995 for everyone else.</strong>
+    <strong>First 10 founders $1495. Then $2995.</strong>
   </p>
 </section>
