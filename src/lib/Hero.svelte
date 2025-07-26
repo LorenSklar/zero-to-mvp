@@ -4,9 +4,9 @@
   </h1>
 
   <p>
-    You tried AI tools, but every tweak broke the code.
-    You hired a dev shop. They drained your wallet and didn't deliver.
-    You waited for a CTO. None appeared.
+    You tried AI tools, but every tweak broke the code. <br />
+    You hired a dev shop. They drained your wallet and didn't deliver. <br />
+    You waited for a CTO. None appeared. <br />
     Stop waiting. Build an MVP yourself in just 6 weeks.
   </p>
 

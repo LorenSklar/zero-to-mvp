@@ -2,7 +2,7 @@
   <h1 class="section-title">What Founders Are Saying</h1>
 
   <blockquote style="margin-bottom: 1em;">
-    “I’m a high school student, and I launched a <span class="highlight-text">Stripe-powered MVP with paying users</span> in just six weeks that helps teens find fashion that feels like it's made for them.” — Tochi U.
+    “I’m a high school student, and I launched a <span class="highlight-text">Stripe-powered MVP with paying users</span> in just five weeks that helps teens find fashion that feels like it's made for them.” — Tochi U.
   </blockquote>
 
   <blockquote>
