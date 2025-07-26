@@ -6,7 +6,7 @@
   </blockquote>
 
   <blockquote>
-    “I started with <span class="highlight-text">zero coding knowledge</span> and built a real product. I didn’t think it was possible in that short time, but now I have a small business that’s <span class="highlight-text">already making money</span>.” — Michael Q.
+    “I started with <span class="highlight-text">zero coding knowledge</span> and built a real company. I didn’t think it was possible in that short time, but now I have a small business that’s <span class="highlight-text">already making money</span>.” — Michael Q.
   </blockquote>
 
   <blockquote>
