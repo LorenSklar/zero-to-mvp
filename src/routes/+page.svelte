@@ -1,6 +1,7 @@
 <script>
   import Hero from '$lib/Hero.svelte';
   import IsThisForYou from '$lib/IsThisForYou.svelte';
+  import Results from '$lib/Results.svelte';
   import HowItWorks from '$lib/HowItWorks.svelte';
   import Pricing from '$lib/Pricing.svelte';
   import WhyUs from '$lib/WhyUs.svelte';
@@ -18,6 +19,11 @@
 
   <section>
     <IsThisForYou />
+  </section>
+  <hr class="section-divider" />
+
+  <section>
+    <Results />
   </section>
   <hr class="section-divider" />
 

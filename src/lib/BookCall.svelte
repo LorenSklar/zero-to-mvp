@@ -5,9 +5,7 @@
 <form
   name="bookcall"
   method="POST"
-  data-netlify="true"
-  netlify-honeypot="bot-field"
-  action="/thank-you"
+  netlify
   style="display: flex; flex-direction: column; gap: 1.2em; max-width: 350px; align-items: center; background: #232336; padding: 1.5em 2em; border-radius: 12px; box-shadow: 0 2px 16px #0004; margin-bottom: 1.2em;"
 >
   <input type="hidden" name="form-name" value="bookcall" />
