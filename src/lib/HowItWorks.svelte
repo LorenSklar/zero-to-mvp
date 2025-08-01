@@ -9,7 +9,7 @@
   <p style="margin-top: 0">This is the crucial step that everyone skips. AI can't do it for you. Dev shops charge a fortune for it. We help you break your idea into simple, buildable parts you can code yourself.</p>
 
   <h5>Week 3: </h5><h5>Learn to Read Code</h5>
-  <p style="margin-top: 0">You learn just enough JavaScript and HTML/CSS to understand your MVP and fix it without help.</p>
+  <p style="margin-top: 0">You learn just enough JavaScript and HTML to understand your MVP and fix it without help.</p>
 
   <h5>Week 4: </h5><h5>Build Your MVP</h5>
   <p style="margin-top: 0">Guided by your coach with an assist from AI coding tools, you assemble your MVP piece by piece.</p>
@@ -21,7 +21,7 @@
   <p style="margin-top: 0">With real data, you are in control. Iterate fast. Pivot hard. Or raise with real traction. You're not just dreaming. You're doing.</p>
 
   <h5>After Week 6: </h5>
-  <p style="margin-top: 0">You leave with a working MVP and the skills to improve it, no dev team or CTO required.”.</p>
+  <p style="margin-top: 0">You leave with a working MVP and the skills to improve it, no dev team or CTO required.</p>
   </section>
 
 
